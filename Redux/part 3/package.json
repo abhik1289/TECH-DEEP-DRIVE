@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "parcel": "^2.13.3",
     "redux": "^5.0.1"
   }
 }
